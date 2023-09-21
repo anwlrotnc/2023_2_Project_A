@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class ItemInfo : MonoBehaviour
 {
-    public int slotId;      //슬롯 번소
+    public int slotId;      //슬롯 번호
     public int itemId;      //아이템 번호
 
 
